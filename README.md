@@ -1,4 +1,4 @@
-Here is the **correctly ordered and cleaned-up version** of your `README.md` for the **YouTube Comment Sentiment Analysis Web App**:
+
 
 ---
 
@@ -85,4 +85,3 @@ streamlit run app.py
 
 ---
 
-Let me know if you want a deployment section (e.g., **Render**, **Streamlit Cloud**, or **Docker**).
